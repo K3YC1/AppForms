@@ -7,4 +7,5 @@
     <string name="txbAltura">Altura</string>
     <string name="txbPeso">Peso</string>
     <string name="txbResultado">Resultado</string>
+    <string name="valtituloprimo">VALIDAR NÚMERO PRIMO</string>
 </resources>
